@@ -1,4 +1,5 @@
 # PictureExampleApp
-    recyclerView+CusorLoader+ContentProvider./n
+    recyclerView+CusorLoader+ContentProvider.
+    
     This app can display your local image just like Gallery.
     
